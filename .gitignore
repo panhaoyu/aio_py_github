@@ -1,0 +1,5 @@
+.idea
+/build
+/dist
+/aio_py_github.egg-info
+__pycache__
